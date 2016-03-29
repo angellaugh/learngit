@@ -1,0 +1,1 @@
+把公司notpad++的默认编码格式设置为UTF-8 without BOM
